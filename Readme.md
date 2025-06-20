@@ -138,15 +138,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## License
-
-[MIT](LICENSE)
-
----
-
 ## Acknowledgements
 
 - [Express.js](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [Cloudinary](https://cloudinary.com/)
--
